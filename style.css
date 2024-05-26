@@ -1,3 +1,12 @@
-div{
-    background-color: cadetblue;
+.yellow{
+    background-color: yellow;
+}
+#meta{
+    background-color: green;
+}
+#amazon{
+    background-color: skyblue;
+}
+.span{
+    color:blueviolet ;
 }
