@@ -1,0 +1,30 @@
+.one{
+    color: green;
+    text-align: center;
+}
+.two{
+    color:black;
+}
+.main2{
+    display:flex;
+    background-color:pink;
+    justify-content: center;
+    align-items:center;
+    width: 100%;
+}
+.three
+{
+    background-color: rgb(221, 224, 35);
+    margin: 10px;
+    width: 50%;
+}
+.four
+{
+    background-color: rgb(182, 148, 37);
+    margin: 10px;
+    width: 50%;
+
+}
+html{
+    background-color: aquamarine;
+}
